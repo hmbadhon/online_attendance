@@ -1,6 +1,7 @@
-# online_attendance
+# Flutter Online Attendance API
 
-A new Flutter application.
+A new Flutter application using API fetch and post data. Happy Coding!
+
 
 ## Getting Started
 
