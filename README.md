@@ -2,7 +2,7 @@
 
 A new Flutter application using API fetch and post data. Happy Coding!
 
-![](Screenshot/Screenshot_1.png)
+<img src="Screenshot/Screenshot_1.png" width="300" height="600">
 
 
 ## Getting Started
