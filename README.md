@@ -2,6 +2,8 @@
 
 A new Flutter application using API fetch and post data. Happy Coding!
 
+![](Screenshot/Screenshot_1.png)
+
 
 ## Getting Started
 
