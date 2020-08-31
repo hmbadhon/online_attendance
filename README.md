@@ -3,6 +3,8 @@
 A new Flutter application using API fetch and post data. Happy Coding!
 
 <img src="Screenshot/Screenshot_1.png" width="300" height="600">
+<img src="Screenshot/Screenshot_2.png" width="300" height="600">
+<img src="Screenshot/Screenshot_3.png" width="300" height="600">
 
 
 ## Getting Started
